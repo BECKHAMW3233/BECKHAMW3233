@@ -44,5 +44,5 @@ A physical naval combat game focusing on fleet-level maneuvers and ship-to-ship 
   mirroring the "low-tolerance" environment of network security.
 
 ### 🎯 Connect
-- 📫 Currently documenting technical progress in **CSC-113: AI Fundamentals**.
+- 📫 Currently documenting technical progress in **CSC-113: AI Fundamentals** (https://github.com/BECKHAMW3233/CSC-113).
 - 💼 [LinkedIn](https://www.linkedin.com/in/WilliamBeckham/)
