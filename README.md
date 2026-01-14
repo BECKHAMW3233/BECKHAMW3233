@@ -19,7 +19,8 @@ Executing my final 12 credit hours with a focus on offensive and defensive secur
 - **CSC-113:** AI-Enhanced Workflows & Prompt Engineering
 
 ### ⚙️ Systems & Hardware Engineering
-I approach cybersecurity from the hardware up, specializing in enthusiast-grade architecture and thermal management.
+I approach cybersecurity from the hardware up, specializing in enthusiast-grade 
+architecture and thermal management.
 My workstation is a custom benchmark for stability:
 - **Architecture:** Ryzen 9 7900X @ 5.25GHz (Stable) | ASUS ROG Crosshair X870E Hero
 - **Cooling:** Custom closed-loop liquid cooling (EKWB blocks and radiators)
@@ -27,7 +28,8 @@ My workstation is a custom benchmark for stability:
 
 ### ⚔️ Tabletop Strategy & Miniature Wargaming
 Outside of the terminal, I apply tactical theory through physical tabletop wargaming.
-These hobbies require the same meticulous attention to detail, logistics, and resource management found in Incident Response.
+These hobbies require the same meticulous attention to detail, logistics, and 
+resource management found in Incident Response.
 
 #### **Bolt Action (28mm Scale)**
 A physical, squad-based WWII tactical game played with detailed miniatures.
