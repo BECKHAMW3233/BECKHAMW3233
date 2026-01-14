@@ -19,11 +19,11 @@ Executing my final 12 credit hours with a focus on offensive and defensive secur
 - **CSC-113:** AI-Enhanced Workflows & Prompt Engineering
 
 ### ⚙️ Systems & Hardware Engineering
-I approach cybersecurity from the hardware up, specializing in enthusiast-grade architecture and thermal management. 
+I approach cybersecurity from the hardware up, specializing in enthusiast-grade architecture and thermal management.
 My workstation is a custom benchmark for stability:
 - **Architecture:** Ryzen 9 7900X @ 5.25GHz (Stable) | ASUS ROG Crosshair X870E Hero
-- **Cooling:** Custom open-loop liquid cooling (Full EKWB blocks and radiators)
-- **Specifications:** 64GB DDR5-5600 | RTX 4080 16GB 
+- **Cooling:** Custom closed-loop liquid cooling (EKWB blocks and radiators)
+- **Specifications:** 64GB DDR5-5600 | RTX 4080 16GB (Air-Cooled)
 
 ### ⚔️ Tabletop Strategy & Miniature Wargaming
 Outside of the terminal, I apply tactical theory through physical tabletop wargaming.
@@ -38,7 +38,8 @@ A physical, squad-based WWII tactical game played with detailed miniatures.
 #### **Victory at Sea (1:1800 Scale)**
 A physical naval combat game focusing on fleet-level maneuvers and ship-to-ship engagements.
 - **Logistical Complexity:** Requires managing initiative and the health of critical ship systems (engines, bridge, gunnery).
-- **Scale Detail:** High-precision maneuvers where positioning and firing arcs are measured to the millimeter, mirroring the "low-tolerance" environment of network security.
+- **Scale Detail:** High-precision maneuvers where positioning and firing arcs are measured to the millimeter,
+  mirroring the "low-tolerance" environment of network security.
 
 ### 🎯 Connect
 - 📫 Currently documenting technical progress in **CSC-113: AI Fundamentals**.
