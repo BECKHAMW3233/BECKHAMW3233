@@ -42,4 +42,4 @@ A physical naval combat game focusing on fleet-level maneuvers and ship-to-ship 
 
 ### 🎯 Connect
 - 📫 Currently documenting technical progress in **CSC-113: AI Fundamentals**.
-- 💼 [LinkedIn](https://www.linkedin.com/in/william-beckham-24467528a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/WilliamBeckham/)
